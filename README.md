@@ -1,2 +1,2 @@
 # firest-github
-实验
+字典常用操作
